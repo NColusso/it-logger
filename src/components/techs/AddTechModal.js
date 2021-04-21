@@ -4,7 +4,6 @@ import M from "materialize-css/dist/js/materialize.min.js";
 const AddTechModal = () => {
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
-  const [tech, setTech] = useState("");
 
   const onSubmit = () => {
     if (!firstName || !lastName) {
