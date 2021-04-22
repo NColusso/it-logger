@@ -1,25 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not working",
+      "message": "Wireless down at 54324",
       "attention": true,
-      "date": "03-03-2020",
-      "tech": "John Doe"
+      "tech": "John Doe",
+      "date": "2021-04-22T00:17:46.432Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Changed network card on server 1684",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sara Wilson"
+      "tech": "Sara Wilson",
+      "date": "2021-04-22T00:28:00.844Z",
+      "id": 2
+    },
+    {
+      "message": "Hard drive failed at station 461",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-04-22T00:29:09.118Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "doneskie",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-04-22T01:05:38.634Z"
     }
   ],
   "techs": [
